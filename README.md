@@ -1,0 +1,4 @@
+- Preprocessing of MRI image datasets for training and testing.
+- Creation and training of a CNN model for binary classification (tumor vs. no tumor).
+- Evaluate the model using accuracy, precision, recall, F1 score and loss curves.
+- Stack: Python, Scikit-learn, Tensorflow, Keras, Numpy, Matplotlib, Seaborn.
